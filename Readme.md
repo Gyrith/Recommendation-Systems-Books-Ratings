@@ -2,7 +2,7 @@
 
 A book recommendation system built with the [Surprise](https://surpriselib.com/) library on user ratings for 1,000 books (500 users, about 24,400 ratings, scale 1-5).
 
-## What's inside
+## Contents
 
 - `book_recommendation_lab.ipynb`: the full notebook, with saved outputs
 - `book_ratings.csv`: the ratings data
