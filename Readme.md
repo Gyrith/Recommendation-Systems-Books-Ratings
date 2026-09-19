@@ -34,5 +34,3 @@ Python, pandas, NumPy, scikit-surprise, matplotlib, seaborn
 ```bash
 pip install scikit-surprise
 ```
-
-Open the notebook in Jupyter and run all cells, with `book_ratings.csv` in the same folder.
